@@ -1,0 +1,7 @@
+A Linux operációs rendszer, a szabad és a nyílt forráskódú szoftverek egyik legismertebb példája.
+
+A „Linux” elnevezés szigorú értelemben véve a Linux-rendszermagot jelenti, amelyet Linus Torvalds kezdett el fejleszteni 1991-ben.[4][5] A köznyelvben mégis gyakran a teljes Unix-szerű operációs rendszerre utalnak vele, amely a Linux-rendszermagra és az 1983-ban, Richard Matthew Stallman vezetésével indult GNU projekt keretében született alapprogramokra épül. A Linux pontosabb neve ebben az értelemben GNU/Linux.
+
+A „Linux” kifejezést használják Linux-disztribúciókra (terjesztések) is, ám ilyenkor általában a disztribúció nevét is hozzáteszik. Egy-egy disztribúció olyan összeállítás, amely az alaprendszeren túl bizonyos szempontok alapján összeválogatott és testre szabott programokat tartalmaz.
+
+A Linux a szerverek és személyi számítógépek mellett – elsősorban nyíltságának köszönhetően – megtalálható sok összetett elektronikus eszközben, így hálózati eszközökben (például routerek), hordozható eszközökben (például mobiltelefonok, okostelefonok, PDA-k, hordozható hanglejátszók, órák[11]), háztartási gépekben, szórakoztató elektronikai berendezésekben (például asztali DVD-lejátszók, videójáték-konzolok, set-top-boxok) is. Bizonyos területeken (például webszerverek, szuperszámítógépek esetében) a legmeghatározóbb operációs rendszernek számít, ám az utóbbi években személyi számítógépekre (asztali és hordozható gépek) is egyre szélesebb körben telepítenek valamilyen Linux disztribúciót
